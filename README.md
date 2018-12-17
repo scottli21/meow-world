@@ -1,2 +1,2 @@
 # meow-world
-get started
+print("MEOW")
